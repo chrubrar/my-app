@@ -8,9 +8,23 @@ export const siteConfig = {
     {
       title: "Home",
       href: "/",
+
+    },
+    {
+      title: "InputDemo",
+      href: "/inputdemo",
+    },
+    {
+      title: "InputFile",
+      href: "/inputfile",
+    },
+    {
+      title: "Form Demo",
+      href: "/formdemo",
     },
   ],
   links: {
+    sword: "/skeleton",
     twitter: "https://twitter.com/shadcn",
     github: "https://github.com/shadcn/ui",
     docs: "https://ui.shadcn.com",
